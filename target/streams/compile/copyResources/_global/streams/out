@@ -1,0 +1,5 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/bw/sbt/play-scala-endpoint/conf/application.conf,/home/bw/sbt/play-scala-endpoint/target/scala-2.12/classes/application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/bw/sbt/play-scala-endpoint/conf/logback.xml,/home/bw/sbt/play-scala-endpoint/target/scala-2.12/classes/logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/bw/sbt/play-scala-endpoint/conf/messages,/home/bw/sbt/play-scala-endpoint/target/scala-2.12/classes/messages)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/bw/sbt/play-scala-endpoint/conf/routes,/home/bw/sbt/play-scala-endpoint/target/scala-2.12/classes/routes)[0m
